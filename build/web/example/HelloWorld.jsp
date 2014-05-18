@@ -16,7 +16,7 @@
                 <s:url id="url" action="HelloWorld">
                     <s:param name="request_locale">en</s:param>
                 </s:url>
-                <s:a href="%{url}">English</s:a>
+                <s:a href="%{url}">Colombiano</s:a>
             </li>
 
             <li>
