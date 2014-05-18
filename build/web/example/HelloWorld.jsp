@@ -24,7 +24,7 @@
                     <s:param name="request_locale">es</s:param>
                 </s:url>
 
-                <s:a href="%{url}">Espanol</s:a>
+                <s:a href="%{url}">Espanolete</s:a>
 
             </li>
         </ul>
